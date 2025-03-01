@@ -1,0 +1,30 @@
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\appsettings.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.staticwebassets.runtime.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.exe
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.deps.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.runtimeconfig.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.dll
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\bin\Debug\net8.0\2.Dönem 2.Ders.pdb
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.AssemblyInfoInputs.cache
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.AssemblyInfo.cs
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.csproj.CoreCompileInputs.cache
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.RazorAssemblyInfo.cache
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.RazorAssemblyInfo.cs
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets\msbuild.2.Dönem 2.Ders.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets\msbuild.build.2.Dönem 2.Ders.props
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.2.Dönem 2.Ders.props
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.2.Dönem 2.Ders.props
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\scopedcss\bundle\2.Dönem 2.Ders.styles.css
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\scopedcss\projectbundle\2.Dönem 2.Ders.bundle.scp.css
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.dll
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\refint\2.Dönem 2.Ders.dll
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.pdb
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\2.Dönem 2.Ders.genruntimeconfig.cache
+c:\Users\lenovo\OneDrive\Masaüstü\11. Sınıf Bilişim Dersleri\Web Tabanlı Uygulama Geliştirme\2.Dönem 2.Ders\obj\Debug\net8.0\ref\2.Dönem 2.Ders.dll
